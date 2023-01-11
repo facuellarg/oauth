@@ -1,0 +1,12 @@
+[AppServer]
+host = "localhost"
+port = 8080
+[GithubOAuthCredentials]
+clientID = "clientID"
+clientSecret = "secrete"
+[GoogleOAuthCredentials]
+clientID = ""
+clientSecret = ""
+[LinkedInOAuthCredentials]
+clientID = ""
+clientSecret = ""
